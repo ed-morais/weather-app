@@ -4,7 +4,8 @@ Weather app is a progressive web application built using React.js, Material UI a
 Link: [Weather App](https://ed-weather-app.netlify.app/)
 
 Images and Videos:</br>
-![Weather App](https://github.com/ed-morais/weather-app/blob/main/images/app.jpeg?raw=true)
+<img src="images/app.jpeg" width="300"> </br>
+<img src="images/video-app.gif" width="300"/>
 
 
 
